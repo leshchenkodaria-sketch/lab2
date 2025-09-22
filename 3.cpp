@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    double a, b, c, P;
+    float a, b, c, P;
 
     cout << "a: ";
     cin >> a;
@@ -20,4 +20,5 @@ int main() {
     cout << "P = " << P << endl;
 
     return 0;
+
 }
